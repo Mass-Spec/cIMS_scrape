@@ -1,5 +1,5 @@
 # cIMS_scrape
-A tool to extract cIMS experimental settings from Waters xml file format
+A tool to extract cIMS experimental settings from Waters metadata file formats
 
 Usage:
 
